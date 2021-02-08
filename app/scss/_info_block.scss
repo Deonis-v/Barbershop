@@ -1,0 +1,33 @@
+.section-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 55px 35px 0 0;
+}
+
+.section-info__block-33 {
+  display: flex;
+}
+
+.block-33__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #fff;
+  width: 33.3%;
+  margin-right: 60px;
+}
+
+.block-33__inner-h {
+  font-size: 30px;
+}
+
+.block-33__inner-shape {
+  margin: 20px 0 30px 0;
+}
+
+.block-33__inner-text {
+  font-size: 14px;
+  text-align: center;
+  line-height: 25px;
+}
